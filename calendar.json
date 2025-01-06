@@ -1,6 +1,6 @@
 {
-    "2025-01-01": {
-        "description": [
+    "20250101": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -8,8 +8,8 @@
             "Hari Tahun Baru"
         ]
     },
-    "2025-01-27": {
-        "description": [
+    "20250127": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -17,8 +17,8 @@
             "Isra Mikraj Nabi Muhammad (belum pasti)"
         ]
     },
-    "2025-01-28": {
-        "description": [
+    "20250128": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -26,8 +26,8 @@
             "Cuti Bersama Tahun Baru Imlek"
         ]
     },
-    "2025-01-29": {
-        "description": [
+    "20250129": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -35,8 +35,8 @@
             "Tahun Baru Imlek"
         ]
     },
-    "2025-03-02": {
-        "description": [
+    "20250302": {
+        "deskripsi": [
             "Perayaan"
         ],
         "holiday": false,
@@ -44,8 +44,8 @@
             "Ramadan Start (belum pasti)"
         ]
     },
-    "2025-03-28": {
-        "description": [
+    "20250328": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -53,8 +53,8 @@
             "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)"
         ]
     },
-    "2025-03-29": {
-        "description": [
+    "20250329": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -62,8 +62,8 @@
             "Hari Suci Nyepi (Tahun Baru Saka)"
         ]
     },
-    "2025-03-31": {
-        "description": [
+    "20250331": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -71,8 +71,8 @@
             "Hari Idul Fitri (belum pasti)"
         ]
     },
-    "2025-04-01": {
-        "description": [
+    "20250401": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -80,8 +80,8 @@
             "Hari Idul Fitri (belum pasti)"
         ]
     },
-    "2025-04-02": {
-        "description": [
+    "20250402": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -89,8 +89,8 @@
             "Cuti Bersama Idul Fitri"
         ]
     },
-    "2025-04-03": {
-        "description": [
+    "20250403": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -98,8 +98,8 @@
             "Cuti Bersama Idul Fitri"
         ]
     },
-    "2025-04-04": {
-        "description": [
+    "20250404": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -107,8 +107,8 @@
             "Cuti Bersama Idul Fitri"
         ]
     },
-    "2025-04-07": {
-        "description": [
+    "20250407": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -116,8 +116,8 @@
             "Cuti Bersama Idul Fitri"
         ]
     },
-    "2025-04-18": {
-        "description": [
+    "20250418": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -125,8 +125,8 @@
             "Wafat Isa Almasih"
         ]
     },
-    "2025-04-20": {
-        "description": [
+    "20250420": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -134,8 +134,8 @@
             "Hari Paskah"
         ]
     },
-    "2025-05-01": {
-        "description": [
+    "20250501": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -143,8 +143,8 @@
             "Hari Buruh Internasional / Pekerja"
         ]
     },
-    "2025-05-12": {
-        "description": [
+    "20250512": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -152,8 +152,8 @@
             "Hari Raya Waisak"
         ]
     },
-    "2025-05-13": {
-        "description": [
+    "20250513": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -161,8 +161,8 @@
             "Cuti Bersama Waisak"
         ]
     },
-    "2025-05-29": {
-        "description": [
+    "20250529": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -170,8 +170,8 @@
             "Kenaikan Isa Al Masih"
         ]
     },
-    "2025-05-30": {
-        "description": [
+    "20250530": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -179,8 +179,8 @@
             "Cuti Bersama Kenaikan Isa Al Masih"
         ]
     },
-    "2025-06-01": {
-        "description": [
+    "20250601": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -188,8 +188,8 @@
             "Hari Lahir Pancasila"
         ]
     },
-    "2025-06-06": {
-        "description": [
+    "20250606": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -197,8 +197,8 @@
             "Idul Adha (Lebaran Haji) (belum pasti)"
         ]
     },
-    "2025-06-09": {
-        "description": [
+    "20250609": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -206,8 +206,8 @@
             "Idul Adha (Lebaran Haji)"
         ]
     },
-    "2025-06-27": {
-        "description": [
+    "20250627": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -215,8 +215,8 @@
             "Satu Muharam / Tahun Baru Hijriah (belum pasti)"
         ]
     },
-    "2025-08-17": {
-        "description": [
+    "20250817": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -224,8 +224,8 @@
             "Hari Proklamasi Kemerdekaan R.I."
         ]
     },
-    "2025-09-05": {
-        "description": [
+    "20250905": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -233,8 +233,8 @@
             "Maulid Nabi Muhammad (belum pasti)"
         ]
     },
-    "2025-10-21": {
-        "description": [
+    "20251021": {
+        "deskripsi": [
             "Perayaan"
         ],
         "holiday": false,
@@ -242,8 +242,8 @@
             "Diwali"
         ]
     },
-    "2025-12-24": {
-        "description": [
+    "20251224": {
+        "deskripsi": [
             "Perayaan"
         ],
         "holiday": false,
@@ -251,8 +251,8 @@
             "Malam Natal"
         ]
     },
-    "2025-12-25": {
-        "description": [
+    "20251225": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -260,8 +260,8 @@
             "Hari Raya Natal"
         ]
     },
-    "2025-12-26": {
-        "description": [
+    "20251226": {
+        "deskripsi": [
             "Hari libur nasional"
         ],
         "holiday": true,
@@ -269,8 +269,8 @@
             "Cuti Bersama Natal (Hari Tinju)"
         ]
     },
-    "2025-12-31": {
-        "description": [
+    "20251231": {
+        "deskripsi": [
             "Perayaan"
         ],
         "holiday": false,
